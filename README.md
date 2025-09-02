@@ -4,6 +4,12 @@ This project simulates a coffee machine using an event-driven design.
 The machine is represented as a class that exposes a **single interface method** to handle all user interactions.  
 Instead of directly reading from system input, the machine processes commands through this method, just like a real-world device that reacts to button presses or touchscreen input.
 
+Learn more at [Hyperskill site](https://hyperskill.org/projects/69)
+
+Here's the link to the project: [Hyperskill site](https://hyperskill.org/projects/69)
+
+Check out my profile: https://hyperskill.org/profile/266976280
+
 ---
 
 ## 🚀 Features
